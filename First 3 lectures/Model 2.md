@@ -9,9 +9,13 @@
 ### **Easy (1-10):**
 
 1. **What is an Expert System?**
+
    a) A system for managing databases
+   
    b) A computer system that emulates human expert decision-making
+   
    c) A type of computer hardware
+   
    d) A programming language
 
 2. **The two main components of an Expert System are:**
