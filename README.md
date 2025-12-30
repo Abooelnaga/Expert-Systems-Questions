@@ -1,9 +1,9 @@
 # النموذج المستعمل :
 
-[DeepSeek](https://chat.deepseek.com/)
+<a href="https://chat.deepseek.com/" target="_blank">DeepSeek</a>
 
 # مواقع أسئلة :
 
-[t4tutorials](https://t4tutorials.com/expert-systems-mcqs/#google_vignette)
+<a href="https://t4tutorials.com/expert-systems-mcqs/#google_vignette" target="_blank">t4tutorials</a>
 
-[sanfoundry](https://www.sanfoundry.com/artificial-intelligence-mcqs-expert-systems/#google_vignette)
+<a href="https://www.sanfoundry.com/artificial-intelligence-mcqs-expert-systems/#google_vignette" target="_blank">sanfoundry</a>
