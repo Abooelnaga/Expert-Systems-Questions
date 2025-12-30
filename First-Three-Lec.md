@@ -9,9 +9,13 @@
 ### **Easy Questions:**
 
 1. **What is the primary goal of an Expert System?**
+
    a) To replace all human workers
+   
    b) To emulate the decision-making capabilities of a human expert in a specific domain
+   
    c) To learn automatically from big data without human input
+   
    d) To serve as a general-purpose problem-solving computer
 
 2. **Who is famously associated with the definition: "An expert system is a computer system that emulates... the decision-making capabilities of a human expert"?**
