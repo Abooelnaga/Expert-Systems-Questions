@@ -19,140 +19,253 @@
    d) A programming language
 
 2. **The two main components of an Expert System are:**
+
    a) CPU and GPU
+   
    b) User interface and keyboard
+   
    c) Knowledge base and inference engine
+   
    d) Data warehouse and cloud
+   
 
 3. **Which of these is a special language for building Expert Systems?**
+
    a) Java
+   
    b) CLIPS
+   
    c) HTML
+   
    d) SQL
+   
 
 4. **Expert Systems are particularly useful for:**
+
    a) Replacing all human workers
+   
    b) Solving complex problems in specific domains
+   
    c) Playing video games
+   
    d) Managing social media accounts
+   
 
 5. **What does the inference engine do?**
+
    a) Stores facts and rules
+   
    b) Asks questions to the user
+   
    c) Draws conclusions from the knowledge base
+   
    d) Designs the system interface
+   
 
 6. **The knowledge in an Expert System primarily comes from:**
+
    a) Internet search
+   
    b) Human domain experts
+   
    c) Random generation
+   
    d) Machine learning algorithms
+   
+   
 
 7. **Which is NOT an advantage of Expert Systems?**
+   
    a) Increased availability (24/7)
+   
    b) Reduced cost per consultation
+   
    c) Being influenced by emotions
+   
    d) Consistent performance
+   
 
 8. **An Expert System can explain:**
+   
    a) Its hardware specifications
+   
    b) The reasoning behind its conclusions
+   
    c) The weather forecast
+   
    d) Computer programming basics
+   
 
 9. **The field of building Expert Systems is called:**
+   
    a) Software Engineering
+   
    b) Knowledge Engineering
+   
    c) Data Engineering
+   
    d) Electrical Engineering
+   
 
 10. **The "Problem Domain" is:**
+	
     a) All possible knowledge
+	
     b) The specific area where problems are solved (e.g., finance)
+	
     c) The computer's operating system
+	
     d) A set of programming errors
+	
 
 ### **Medium (11-20):**
+	
 
 11. **In the relationship between Problem Domain and Knowledge Domain:**
+	
     a) They are identical
+	
     b) Knowledge Domain is wider than Problem Domain
+	
     c) Problem Domain contains the Knowledge Domain
+	
     d) They have no relationship
+	
 
 12. **Which phrase best describes an Expert System's approach?**
+	
     a) "Learn from big data automatically"
+	
     b) "Follow explicitly programmed rules from experts"
+	
     c) "Mimic human emotions"
+	
     d) "Generate random solutions"
+	
 
 13. **When we cannot find a perfect algorithmic solution, we might use:**
+	
     a) A faster computer
+	
     b) Artificial Intelligence like Expert Systems
+	
     c) More programmers
+	
     d) Simpler problems
+	
 
 14. **The role of a Knowledge Engineer is to:**
+
     a) Be the domain expert
+
     b) Code the expert's knowledge into the system
+
     c) Use the Expert System as an end-user
+
     d) Repair computer hardware
 
+
 15. **A major limitation of rule-based Expert Systems is:**
+
     a) They are too fast
+
     b) They cannot explain their reasoning
+
     c) They are brittle when facing unanticipated situations
+
     d) They require too much memory
 
+
 16. **Forward chaining is a reasoning method that:**
+
     a) Starts with a goal and works backward
+
     b) Starts with facts and applies rules to reach conclusions
+
     c) Uses random selection
+
     d) Only works with neural networks
 
+
 17. **"Verification" in Expert System development asks:**
+
     a) "Is the system useful?"
+
     b) "Did we build the system right?" (technical correctness)
+
     c) "Is the expert qualified?"
+
     d) "Will it make money?"
 
+
 18. **Compared to modern Machine Learning, Expert Systems are typically:**
+
     a) More opaque (black box)
+
     b) More transparent in their reasoning
+
     c) Better at learning from raw data
+
     d) More adaptable to new domains
 
+
 19. **An Expert System's ability to function with incomplete information refers to:**
+
     a) Its need for all data
+
     b) Its use of probability and logic with available data
+
     c) Its ability to guess randomly
+
     d) Its connection to the internet
 
+
 20. **Which is a key benefit of Expert Systems for organizations?**
+
     a) They never need updates
+
     b) They preserve expertise that might be lost (e.g., retirement)
+
     c) They are cheaper than all other solutions
+
     d) They operate without electricity
+
 
 ### **Hard (21-25):**
 
+
 21. **"Tacit knowledge" is challenging in Knowledge Acquisition because:**
+
     a) It's written in books
+
     b) The expert may not consciously know how to articulate it
+
     c) It's always incorrect
+
     d) It's too simple to record
 
+
 22. **The "explanation facility" contributes most to:**
+
     a) Making the system more complex
+
     b) User acceptance and trust through transparency
+
     c) Increasing processing speed
+
     d) Reducing development costs
 
+
 23. **In the development cycle, "Validation" refers to:**
+
     a) Checking for programming bugs
+
     b) Ensuring the system meets the real-world needs and matches expert decisions
+
     c) Validating the user's identity
+
     d) Testing computer hardware
+
 
 24. **Which analogy was used for a classic Expert System?**
     a) A child's learning brain
