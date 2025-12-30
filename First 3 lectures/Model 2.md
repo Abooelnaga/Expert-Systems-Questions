@@ -268,268 +268,482 @@
 
 
 24. **Which analogy was used for a classic Expert System?**
+
     a) A child's learning brain
+	
     b) An interactive, thorough checklist
+	
     c) A black box neural network
+	
     d) A search engine spider
+	
 
 25. **According to the lectures, the current role of Expert Systems in AI is best described as:**
+
     a) The dominant mainstream approach
+	
     b) Obsolete and no longer used
+	
     c) A specialized, niche approach within the broader AI field
+	
     d) Only used for entertainment
+	
 
 ---
 
 ## **Part 2: Data, Information & Databases (Lec2) – 25 Questions**
 
+
 ### **Easy (26-35):**
 
+
 26. **Individual, raw, unorganized facts are called:**
+
     a) Information
+	
     b) Knowledge
+	
     c) Data
+	
     d) Wisdom
+	
 
 27. **Processed data that has meaning within a context is:**
+
     a) Numbers
+	
     b) Information
+	
     c) A database
+	
     d) Statistics
+	
 
 28. **Data expressed in numbers (e.g., age, score) is:**
+
     a) Qualitative data
+	
     b) Primary data
+	
     c) Quantitative data
+	
     d) Secondary data
+	
 
 29. **Data collected firsthand for a specific study is:**
+
     a) Secondary data
+	
     b) Historical data
+	
     c) Primary data
+	
     d) Processed data
+	
 
 30. **An organized collection of data is a:**
+
     a) Spreadsheet
+	
     b) Database
+	
     c) Word processor
+	
     d) Calculator
+	
 
 31. **The most common structure for a relational database is:**
+
+
     a) A network of nodes
+	
     b) A single document
+	
     c) Tables with rows and columns
+	
     d) A text file
+	
 
 32. **In the DIKW pyramid, the level above Data is:**
+
     a) Wisdom
+	
     b) Knowledge
+	
     c) Information
+	
     d) Understanding
+	
 
 33. **The data processing stage where data is saved for future use is:**
+
     a) Collection
+
     b) Processing
+
     c) Storage
+
     d) Output
 
+
 34. **Calculating the average of a dataset is part of:**
+
     a) Data collection
+
     b) Descriptive statistics
+
     c) Inferential statistics
+
     d) Data validation
 
+
 35. **A popular software for statistical analysis is:**
+
     a) AutoCAD
+
     b) SPSS
+
     c) Illustrator
+
     d) Visual Studio
+
 
 ### **Medium (36-45):**
 
+
 36. **"Water boils at 100°C" is an example of knowledge acquired through experience, making it:**
+
     a) A priori knowledge
+
     b) A posteriori knowledge
+
     c) Procedural knowledge
+
     d) Tacit knowledge
 
+
 37. **The key distinction between Information and Knowledge is that Knowledge involves:**
+
     a) More data points
+
     b) Understanding, experience, and insight ("why" and "how")
+
     c) Being stored in a computer
+
     d) Being more recent
 
+
 38. **A database storing data as flexible JSON documents is a:**
+
     a) Relational Database
+
     b) Graph Database
+
     c) Document Database
+
     d) Flat File Database
 
+
 39. **Which database type is ideal for representing social networks (friendships)?**
+
     a) Hypertext Database
+
     b) Graph Database
+
     c) Operational Database
+
     d) Distributed Database
 
+
+
 40. **A database whose parts are located on different networked computers is:**
+	
     a) A centralized database
+	
     b) A distributed database
+	
     c) A personal database
+	
     d) An analog database
+	
 
 41. **Cleaning data to remove errors is part of:**
+	
     a) Data input
+	
     b) Data validation/preparation
+	
     c) Data output
+	
     d) Data mining
+	
 
 42. **Using a sample to make conclusions about a larger population is the goal of:**
+	
     a) Descriptive statistics
+	
     b) Inferential statistics
+	
     c) Data entry
+	
     d) Data sorting
+	
 
 43. **Interview responses about "customer satisfaction" are typically:**
+	
     a) Quantitative data
+	
     b) Primary data
+	
     c) Qualitative data
+	
     d) Both b and c
+	
 
 44. **A CSV (Comma-Separated Values) file is a classic example of a:**
+
     a) Relational Database Management System
+
     b) Graph Database
+
     c) Flat File Database
+
     d) Hypertext Database
 
+
 45. **"Wisdom" in the DIKW model involves:**
+
     a) Storing terabytes of data
+
     b) Using knowledge to make good judgments and decisions
+
     c) Creating colorful charts
+
     d) Writing complex formulas
+
 
 ### **Hard (46-50):**
 
+
 46. **In a database table, a row representing a single record is also called a:**
+
     a) Attribute
+
     b) Tuple
+
     c) Column
+
     d) Schema
 
+
 47. **The World Wide Web is fundamentally built on a structure similar to a:**
+
     a) Relational database
+
     b) Hypertext database
+
     c) Graph database
+
     d) Operational database
+	
+
 
 48. **A database optimized for real-time transaction processing (like airline reservations) is an:**
+	
     a) Analytical database
+	
     b) Operational database
+	
     c) Archival database
+	
     d) Experimental database
+	
 
 49. **Transforming Information into Knowledge in the DIKW model requires:**
+	
     a) Faster internet
+	
     b) Application, experience, and insight
+	
     c) Larger screens
+	
     d) More powerful processors
+	
 
 50. **Studying if there's a link between study time and exam scores uses:**
     a) Descriptive statistics
+	
     b) Associative/Correlational analysis
+	
     c) Data collection methods
+	
     d) Data storage techniques
+	
 
 ---
 
 ## **Part 3: Knowledge Representation & Epistemology (Lec3) – 25 Questions**
+	
 
 ### **Easy (51-60):**
+	
 
 51. **The study of knowledge itself—its nature and origins—is:**
+	
     a) Metaphysics
+	
     b) Epistemology
+	
     c) Ontology
+	
     d) Methodology
+	
 
 52. **Knowing "how to swim" is what type of knowledge?**
+	
     a) Declarative
+	
     b) Procedural
+	
     c) Explicit
+	
     d) A priori
+	
 
 53. **Knowing "the capital of France is Paris" is what type of knowledge?**
+	
     a) Procedural
+	
     b) Declarative
+	
     c) Tacit
+	
     d) Implicit
+	
 
 54. **Knowledge that is hard to put into words (like recognizing a face) is:**
+	
     a) Explicit knowledge
+	
     b) Tacit knowledge
+	
     c) Semantic knowledge
+	
     d) Public knowledge
+	
 
 55. **In Expert Systems, knowledge is often represented as:**
+	
     a) Pictures
+	
     b) IF-THEN rules
+	
     c) Sound waves
+	
     d) Video clips
+	
 
 56. **A visual way to represent knowledge with concepts and relationships is a:**
+	
     a) Rule base
+	
     b) Semantic network
+	
     c) Spreadsheet
+	
     d) Logic gate
+	
 
 57. **In a semantic net, "Car HAS-PART Engine" represents a:**
+	
     a) Causal link
+	
     b) Class membership link
+	
     c) Part-whole link
+	
     d) Ownership link
+	
 
 58. **Knowledge about your own knowledge is called:**
+	
     a) Explicit knowledge
+	
     b) Meta-knowledge
+	
     c) Common knowledge
+	
     d) Basic knowledge
+	
 
 59. **"A Priori" knowledge is gained through:**
+	
     a) Experimentation
+	
     b) Observation
+	
     c) Reasoning alone
+	
     d) Listening to others
+	
 
 60. **The DIKW pyramid stands for:**
+	
     a) Data, Intelligence, Knowledge, Wisdom
+	
     b) Data, Information, Knowledge, Wisdom
+	
     c) Digital, Informational, Knowledge-based, Wise
+	
     d) Database, Internet, Knowledge, Web
+	
 
 ### **Medium (61-70):**
+	
 
 61. **"2+2=4" is an example of:**
+	
     a) A posteriori knowledge
+	
     b) A priori knowledge
+	
     c) Tacit knowledge
+	
     d) Procedural knowledge
+	
 
 62. **Which link type in a semantic net shows categorization?**
+	
     a) HAS-PART
+	
     b) CAUSES
+	
     c) IS-A
+	
     d) LOCATED-IN
+	
 
 63. **A "Frame" in knowledge representation is like:**
+	
     a) A rule
+	
     b) A template or form describing an object's attributes
+	
     c) A neural network layer
+	
     d) A database report
+	
 
 64. **Declarative knowledge is often described as:**
+	
     a) Knowing-how
+	
     b) Knowing-that
+	
     c) Knowing-why secretly
+	
     d) Knowing-who
+	
 
 65. **Converting human expertise into a computer-usable form is the challenge of:**
     a) Data mining
