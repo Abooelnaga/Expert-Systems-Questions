@@ -1,6 +1,5 @@
 # Expert Systems Review Questions  
 **Based on Lectures 4, 5, and 6**  
-**Dr. Fatma Eskander**  
 
 ---
 
