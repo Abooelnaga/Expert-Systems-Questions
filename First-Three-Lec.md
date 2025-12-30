@@ -39,22 +39,37 @@
    d) Natural Language Processing
 
 5. **Which of these is a key component of an Expert System?**
+   
    a) The user interface only
+   
    b) The knowledge base and the inference engine
+   
    c) The machine learning algorithm
+   
    d) The cloud storage unit
+   
 
 6. **The "Inference Engine" in an Expert System is responsible for:**
+
    a) Storing all the raw data
+
    b) Drawing conclusions from the knowledge base
+
    c) Connecting to the internet
+
    d) Designing the user interface
 
+
 7. **What is the main source of knowledge for a traditional Expert System?**
+
    a) Large datasets from the web
+
    b) Human experts in the specific domain
+
    c) Trial and error by the system itself
+
    d) Random generation of rules
+
 
 8. **Which of the following is an advantage of Expert Systems?**
    a) They get tired and need vacations
