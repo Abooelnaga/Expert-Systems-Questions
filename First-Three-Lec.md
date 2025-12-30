@@ -60,7 +60,8 @@
    d) Designing the user interface
 
 
-7. **What is the main source of knowledge for a traditional Expert System?**
+7. **What is the main source of knowled
+ge for a traditional Expert System?**
 
    a) Large datasets from the web
 
@@ -72,36 +73,62 @@
 
 
 8. **Which of the following is an advantage of Expert Systems?**
+
    a) They get tired and need vacations
+
    b) They can be available 24/7
+
    c) They are always more expensive than human experts
+
    d) They are influenced by emotions
 
+
 9. **A major benefit of Expert Systems is their ability to:**
+
    a) Learn new domains without programming
+
    b) Explain their reasoning and conclusions
+
    c) Develop creative art
+
    d) Form emotional bonds with users
 
+
 10. **The process of building an Expert System by extracting knowledge from a human expert is called:**
+
    a) Data Mining
+
    b) Machine Learning
+
    c) Knowledge Engineering
+
    d) Deep Learning
 
+
 11. **What does the "Problem Domain" refer to?**
+	
     a) All knowledge in the world
+	
     b) The specific area or subject the system is trying to solve problems in (e.g., medical diagnosis)
+	
     c) The computer hardware used
+	
     d) The set of all possible rules
+	
 
 ### **Medium Questions:**
+	
 
 11. **The relationship between the "Problem Domain" and the "Knowledge Domain" is best described as:**
+	
     a) They are the same thing
+	
     b) The Knowledge Domain is a subset of the Problem Domain
+	
     c) The Problem Domain is a subset of the Knowledge Domain
+	
     d) They are completely unrelated
+	
 
 12. **Which of the following is NOT a typical characteristic of a traditional Expert System?**
     a) Rule-based (IF-THEN)
