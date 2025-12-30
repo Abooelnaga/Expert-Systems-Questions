@@ -131,102 +131,181 @@ ge for a traditional Expert System?**
 	
 
 12. **Which of the following is NOT a typical characteristic of a traditional Expert System?**
+
     a) Rule-based (IF-THEN)
+	
     b) Transparent reasoning process
+	
     c) Ability to learn continuously from new data on its own
+	
     d) High performance in a narrow, well-defined domain
+	
 
 13. **When an algorithmic solution is not available or sufficient, we rely on:**
+
     a) Faster computers
+
     b) Artificial Intelligence techniques like Expert Systems
+	
     c) Hiring more human experts
+
     d) Making random guesses
 
+
 14. **The person who acts as a bridge between the human expert and the computer system, encoding the knowledge, is the:**
+
     a) Domain Expert
+
     b) System Administrator
+
     c) Knowledge Engineer
+
     d) End User
 
+
 15. **A key weakness of a classic rule-based Expert System is that it is:**
+
     a) Too fast
+
     b) Too expensive to run
+
     c) Brittle (fails on problems not explicitly covered by its rules)
+
     d) Unable to follow logical rules
 
+
 16. **In the analogy presented, an Expert System is likened to:**
+
     a) A child's brain that learns from examples
+	
     b) An extremely thorough, interactive checklist
+	
     c) A black box neural network
+	
     d) A search engine
+	
 
 17. **The "Knowledge Validation" step in Knowledge Engineering asks:**
+
     a) "Did we build the system right?" (checking for technical correctness)
+	
     b) "Did we build the right system?" (checking if it solves the real-world problem correctly)
+	
     c) "Is the system the cheapest option?"
+	
     d) "Is the expert famous?"
+	
 
 18. **Which reasoning strategy starts with known facts and applies rules to deduce new facts until a goal is reached?**
+
     a) Backward Chaining
+	
     b) Forward Chaining
+	
     c) Random Chaining
+	
     d) Circular Reasoning
+	
 
 19. **Modern Machine Learning systems differ from classic Expert Systems primarily because:**
+
     a) ML systems are explicitly programmed with rules by humans
+	
     b) ML systems derive their "intelligence" from data, not directly from human-coded rules
+	
     c) Expert Systems are a type of neural network
+	
     d) ML systems cannot handle uncertainty
+	
 
 20. **The primary purpose of the "explanation" facility in an Expert System is to:**
+
     a) Make the system more complex
+	
     b) Increase user trust and understanding by showing the line of reasoning
+	
     c) Entertain the user with stories
+	
+	
     d) Connect to social media
+	
 
 ### **Hard Questions:**
 
+
 21. **According to the lectures, which statement is TRUE about the current state of Expert Systems?**
+
     a) They have completely replaced all human experts.
+	
     b) They are the dominant form of all AI applications today.
+	
     c) They are a historical part of AI with niche applications, while the field has largely moved toward machine learning.
+	
     d) They are only useful as training tools and have no practical value.
+	
 
 22. **The stage in Knowledge Engineering that involves checking the knowledge base for consistency, completeness, and the absence of conflicting rules is called:**
+
     a) Knowledge Acquisition
+	
     b) Knowledge Representation
+	
     c) Verification
+	
     d) Validation
+	
 
 23. **"Tacit Knowledge" in the context of Knowledge Acquisition is challenging because:**
+
     a) It is too simple to write down.
+	
     b) It is knowledge so ingrained that the expert may not consciously articulate it.
+	
     c) It is always wrong.
+	
     d) It is only found in books.
+	
 
 24. **Which of the following is an example of an "Inference Engine" reasoning strategy that starts with a hypothesis (goal) and works backwards to see if supporting data exists?**
+
     a) Forward Chaining
+	
     b) Backward Chaining
+	
     c) Data Mining
+	
     d) Heuristic Search
+	
 
 25. **An Expert System for diagnosing car engine problems operates in the "Problem Domain" of auto repair. Its "Knowledge Domain" specifically includes:**
+
     a) All information about cars, including their history, market price, and manufacturing process.
+	
     b) Only the facts and rules about engine troubleshooting, symptoms, and solutions provided by the expert mechanic.
+	
     c) The personal opinions of the car owner.
+	
     d) The electrical schematics for the car's entertainment system.
+	
 
 ---
 
 ## **Part 2: Data, Information & Databases (Lec2)**
 
+
 ### **Easy Questions:**
 
+
 26. **Raw, unorganized facts and figures (e.g., "5551237798") are called:**
+
     a) Information
+	
     b) Knowledge
+	
     c) Data
+	
     d) Wisdom
+	
 
 27. **Data that has been processed, organized, and given context to be meaningful is called:**
     a) Numbers
