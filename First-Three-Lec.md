@@ -699,65 +699,11 @@ ge for a traditional Expert System?**
 
 ---
 
-## **Answer the Questions:**
+##**Answer Key**
 
-1) b) To emulate the decision-making capabilities of a human expert in a specific domain
-2) c) Edward Feigenbaum
-3) c) Artificial Intelligence
-4) b) The knowledge base and the inference engine
-5) b) Drawing conclusions from the knowledge base
-6) b) Human experts in the specific domain
-7) b) They can be available 24/7
-8) b) Explain their reasoning and conclusions
-9) c) Knowledge Engineering
-10) b) The specific area or subject the system is trying to solve problems in (e.g., medical diagnosis)
-11) b) The Knowledge Domain is a subset of the Problem Domain
-12) c) Ability to learn continuously from new data on its own
-13) b) Artificial Intelligence techniques like Expert Systems
-14) c) Knowledge Engineer
-15) c) Brittle (fails on problems not explicitly covered by its rules)
-16) b) An extremely thorough, interactive checklist
-17) b) "Did we build the right system?" (checking if it solves the real-world problem correctly)
-18) b) Forward Chaining
-19) b) ML systems derive their "intelligence" from data, not directly from human-coded rules
-20) b) Increase user trust and understanding by showing the line of reasoning
-21) c) They are a historical part of AI with niche applications, while the field has largely moved toward machine learning.
-22) c) Verification
-23) b) It is knowledge so ingrained that the expert may not consciously articulate it.
-24) b) Backward Chaining
-25) b) Only the facts and rules about engine troubleshooting, symptoms, and solutions provided by the expert mechanic.
-26) c) Data
-27) b) Information
-28) c) The number of students in a class
-29) b) Primary data
-30) b) Database
-31) c) Tables (with rows and columns)
-32) c) Knowledge
-33) c) Storage
-34) b) Descriptive Statistics
-35) b) SPSS
-36) b) A posteriori knowledge
-37) b) Information answers "what, who, when, where"; Knowledge answers "why and how" and involves understanding.
-38) c) Document-Oriented Database
-39) c) Graph Database
-40) c) Distributed Database
-41) c) Validation (Data Preparation)
-42) b) Inferential Analysis
-43) c) Interview transcripts about user experience
-44) b) A single table stored as a plain text file (like a CSV)
-45) c) Applying knowledge to make sound judgments and decisions
-46) c) Attributes
-47) b) The World Wide Web (linked HTML pages)
-48) b) Real-time transactional data processing (e.g., inventory, sales)
-49) b) Experience, insight, and understanding
-50) c) Identify meaningful relationships or correlations between variables.
-51) b) Epistemology
-52) b) Procedural Knowledge
-53) b) Declarative Knowledge
-54) b) Tacit Knowledge
-55) c) Production Rules (IF-THEN)
-56) b) A Priori Knowledge
-57) b) Semantic Network
-58) b) A class membership or categorization (e.g., Dog IS-A Mammal)
-59) b) Meta-knowledge
-60) b) Formally encoding human knowledge and reasoning in a way a computer can use
+1) **b** | 2) **c** | 3) **c** | 4) **b** | 5) **b** | 6) **b** | 7) **b** | 8) **b** | 9) **c** | 10) **b**
+11) **b** | 12) **c** | 13) **b** | 14) **c** | 15) **c** | 16) **b** | 17) **b** | 18) **b** | 19) **b** | 20) **b**
+21) **c** | 22) **c** | 23) **b** | 24) **b** | 25) **b** | 26) **c** | 27) **b** | 28) **c** | 29) **b** | 30) **b**
+31) **c** | 32) **c** | 33) **c** | 34) **b** | 35) **b** | 36) **b** | 37) **b** | 38) **c** | 39) **c** | 40) **c**
+41) **c** | 42) **b** | 43) **c** | 44) **b** | 45) **c** | 46) **c** | 47) **b** | 48) **b** | 49) **b** | 50) **c**
+51) **b** | 52) **b** | 53) **b** | 54) **b** | 55) **c** | 56) **b** | 57) **b** | 58) **b** | 59) **b** | 60) **b**
