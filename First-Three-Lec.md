@@ -19,54 +19,62 @@
    d) To serve as a general-purpose problem-solving computer
 
 2. **Who is famously associated with the definition: "An expert system is a computer system that emulates... the decision-making capabilities of a human expert"?**
+
    a) Alan Turing
+   
    b) John McCarthy
+   
    c) Edward Feigenbaum
+   
    d) Marvin Minsky
 
 3. **Expert Systems are a subfield of:**
+
    a) Robotics
+   
    b) Computer Vision
+   
    c) Artificial Intelligence
+   
    d) Natural Language Processing
 
-4. **Which of these is a key component of an Expert System?**
+5. **Which of these is a key component of an Expert System?**
    a) The user interface only
    b) The knowledge base and the inference engine
    c) The machine learning algorithm
    d) The cloud storage unit
 
-5. **The "Inference Engine" in an Expert System is responsible for:**
+6. **The "Inference Engine" in an Expert System is responsible for:**
    a) Storing all the raw data
    b) Drawing conclusions from the knowledge base
    c) Connecting to the internet
    d) Designing the user interface
 
-6. **What is the main source of knowledge for a traditional Expert System?**
+7. **What is the main source of knowledge for a traditional Expert System?**
    a) Large datasets from the web
    b) Human experts in the specific domain
    c) Trial and error by the system itself
    d) Random generation of rules
 
-7. **Which of the following is an advantage of Expert Systems?**
+8. **Which of the following is an advantage of Expert Systems?**
    a) They get tired and need vacations
    b) They can be available 24/7
    c) They are always more expensive than human experts
    d) They are influenced by emotions
 
-8. **A major benefit of Expert Systems is their ability to:**
+9. **A major benefit of Expert Systems is their ability to:**
    a) Learn new domains without programming
    b) Explain their reasoning and conclusions
    c) Develop creative art
    d) Form emotional bonds with users
 
-9. **The process of building an Expert System by extracting knowledge from a human expert is called:**
+10. **The process of building an Expert System by extracting knowledge from a human expert is called:**
    a) Data Mining
    b) Machine Learning
    c) Knowledge Engineering
    d) Deep Learning
 
-10. **What does the "Problem Domain" refer to?**
+11. **What does the "Problem Domain" refer to?**
     a) All knowledge in the world
     b) The specific area or subject the system is trying to solve problems in (e.g., medical diagnosis)
     c) The computer hardware used
