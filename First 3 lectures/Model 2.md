@@ -746,54 +746,95 @@
 	
 
 65. **Converting human expertise into a computer-usable form is the challenge of:**
+
     a) Data mining
+	
     b) Knowledge representation
+	
     c) Computer assembly
+	
     d) Network configuration
+	
 
 66. **In the DIKW model, applying knowledge to a specific situation might lead to:**
+
     a) More data
+
     b) New information
+
     c) Wisdom
+
     d) A computer program
 
+
 67. **Which is NOT a common knowledge representation technique?**
+
     a) Production Rules
+
     b) Semantic Networks
+
     c) Frames
+
     d) Electrical Circuits
 
+
 68. **Explicit knowledge is characterized by being:**
+
     a) Difficult to articulate
+
     b) Easily codified and shared
+
     c) Based on personal intuition only
+
     d) Unconscious
 
+
 69. **Backward chaining in reasoning starts with:**
+
     a) Available facts
+
     b) A hypothesis or goal
+
     c) A random rule
+
     d) The user's question
 
+
 70. **The purpose of the "IS-A" hierarchy in semantic nets is to enable:**
+
     a) Inheritance of properties
+
     b) Calculation of sums
+
     c) Storage of images
+
     d) Connection to printers
+
 
 ### **Hard (71-75):**
 
+
 71. **Which statement about "A Posteriori" knowledge is TRUE?**
+
     a) It is independent of sensory experience.
+
     b) It is necessarily true in all possible worlds.
+
     c) It is empirical and based on observation.
+
     d) It is only found in mathematics.
 
+
 72. **A key advantage of the "Production Rules" representation is its:**
+
     a) Ability to handle vague knowledge easily
+
     b) Modularity and ease of understanding
+
     c) Suitability for representing continuous patterns
+
     d) Low memory usage for large knowledge bases
+
 
 73. **In the context of AI, "Ontology" refers to:**
     
