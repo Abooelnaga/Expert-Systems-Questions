@@ -308,220 +308,394 @@ ge for a traditional Expert System?**
 	
 
 27. **Data that has been processed, organized, and given context to be meaningful is called:**
+
     a) Numbers
+	
     b) Information
+	
     c) A database
+	
     d) Statistics
+	
 
 28. **Which of the following is an example of *Quantitative* data?**
+
     a) A person's favorite color
+	
     b) Customer satisfaction comments
+	
     c) The number of students in a class
+	
     d) The texture of a fabric
+	
 
 29. **Data collected directly from the source for a specific research purpose is called:**
+
     a) Secondary data
+	
     b) Primary data
+	
     c) Processed data
+	
     d) Historical data
+	
 
 30. **A collection of information organized for easy access, management, and updating is a:**
+
     a) Spreadsheet
+	
     b) Database
+	
     c) Word document
+	
     d) Presentation
+	
 
 31. **In a Relational Database, data is organized into:**
+
     a) Trees
+	
     b) Networks
+	
     c) Tables (with rows and columns)
+	
     d) Single text files
+	
 
 32. **In the DIKW Pyramid, what comes directly *above* "Information"?**
+
     a) Data
+	
     b) Wisdom
+	
     c) Knowledge
+	
     d) Processing
+	
 
 33. **The final step in the data processing cycle, where data is saved for future use, is:**
+
     a) Collection
+	
     b) Output
+	
     c) Storage
+	
     d) Processing
+	
 
 34. **Which type of statistical analysis is used to describe or summarize data (e.g., mean, median, charts)?**
+
     a) Inferential Statistics
+	
     b) Descriptive Statistics
+	
     c) Associative Statistics
+	
     d) Predictive Statistics
+	
 
 35. **Which software is mentioned as a major tool for statistical data analysis?**
+
     a) Photoshop
+	
     b) SPSS
+	
     c) Word
+	
     d) PowerPoint
+	
 
 ### **Medium Questions:**
 
+
 36. **"The sky is blue." This statement, derived from observation, is an example of:**
+
     a) A priori knowledge
+	
     b) A posteriori knowledge
+	
     c) Procedural knowledge
+	
     d) Tacit knowledge
+	
 
 37. **What is the key difference between Information and Knowledge according to the lectures?**
+
     a) Information is digital, Knowledge is analog.
+	
     b) Information answers "what, who, when, where"; Knowledge answers "why and how" and involves understanding.
+	
     c) Information is more valuable than Knowledge.
+	
     d) There is no difference; they are synonyms.
+	
 
 38. **A database that stores data as JSON-like documents (e.g., {"name": "John", "age": 30}) is a:**
+
     a) Relational Database
+	
     b) Graph Database
+	
     c) Document-Oriented Database
+	
     d) Flat File Database
+	
 
 39. **A database designed to represent and store data using nodes, edges, and properties (like a social network) is a:**
+
     a) Hypertext Database
+	
     b) Operational Database
+	
     c) Graph Database
+	
     d) Distributed Database
+	
 
 40. **Which type of database is spread across multiple computers or sites within a network?**
+
     a) Flat File Database
+	
     b) Centralized Database
+	
     c) Distributed Database
+	
     d) Personal Database
+	
 
 41. **The step in data processing that involves detecting and correcting errors in the collected raw data is called:**
+
     a) Sorting
+	
     b) Input
+	
     c) Validation (Data Preparation)
+	
     d) Output
+	
 
 42. **Statistical analysis that draws conclusions about a population based on a random sample is:**
+
     a) Descriptive Analysis
+	
     b) Inferential Analysis
+	
     c) Primary Analysis
+	
     d) Data Collection
+	
 
 43. **Which of the following is an example of *Qualitative* data?**
+
     a) Age of participants
+	
     b) Test scores
+	
     c) Interview transcripts about user experience
+	
     d) Temperature readings
+	
 
 44. **In the context of databases, a "Flat File" is typically:**
+
     a) A complex multi-table relational system
+	
     b) A single table stored as a plain text file (like a CSV)
+	
     c) A collection of linked web pages
+	
     d) A 3D model of data
+	
 
 45. **The "wisdom" level in the DIKW pyramid involves:**
+
     a) Recording raw measurements
+	
     b) Organizing data into charts
+	
     c) Applying knowledge to make sound judgments and decisions
+	
     d) Searching for information on Google
+	
 
 ### **Hard Questions:**
 
+
 46. **If a database table has columns "StudentID," "Name," and "Grade," these columns are known as:**
+
     a) Tuples
+	
     b) Rows
+	
     c) Attributes
+	
     d) Relations
+	
 
 47. **A hypertext database is fundamental to the structure of:**
+
     a) Spreadsheet software
+	
     b) The World Wide Web (linked HTML pages)
+	
     c) Statistical analysis packages
+	
     d) Expert system shells
+	
 
 48. **An "Operational Database" is most characterized by its focus on:**
+
     a) Long-term historical archiving
+	
     b) Real-time transactional data processing (e.g., inventory, sales)
+	
     c) Complex scientific simulations
+	
     d) Storing backup copies
+	
 
 49. **In the DIKW hierarchy, the transformation from Information to Knowledge primarily requires:**
+
     a) More storage space
+	
     b) Experience, insight, and understanding
+	
     c) A faster processor
+	
     d) A random number generator
+	
 
 50. **Associative statistical analysis seeks to:**
+
     a) Describe the basic features of a dataset.
+	
     b) Make predictions about future data points.
+	
     c) Identify meaningful relationships or correlations between variables.
+	
     d) Test a specific hypothesis about population parameters.
+	
 
 ---
 
 ## **Part 3: Knowledge Representation & Epistemology (Lec3)**
 
+
 ### **Easy Questions:**
 
+
 51. **The branch of philosophy that studies the nature, origin, and limits of knowledge is:**
+
     a) Metaphysics
+	
     b) Epistemology
+	
     c) Aesthetics
+	
     d) Ethics
+	
 
 52. **Knowledge of "how to ride a bicycle" is an example of:**
+
     a) Declarative Knowledge
+	
     b) Procedural Knowledge
+	
     c) Explicit Knowledge
+	
     d) A Priori Knowledge
+	
 
 53. **Knowledge that "Cairo is the capital of Egypt" is an example of:**
+
     a) Procedural Knowledge
+	
     b) Declarative Knowledge
+	
     c) Tacit Knowledge
+	
     d) A Posteriori Knowledge
+	
 
 54. **Knowledge that is difficult to articulate or transfer in writing (e.g., recognizing a face) is called:**
+
     a) Explicit Knowledge
+	
     b) Tacit Knowledge
+	
     c) Semantic Knowledge
+	
     d) Public Knowledge
 
+
 55. **The most common form of knowledge representation in classic Expert Systems is:**
+
     a) Semantic Nets
+	
     b) Frames
+	
     c) Production Rules (IF-THEN)
+	
     d) Neural Networks
+	
 
 ### **Medium Questions:**
 
+
 56. **"A triangle has three sides." This mathematical truth, known through reason alone, is an example of:**
+
     a) A Posteriori Knowledge
+	
     b) A Priori Knowledge
+	
     c) Procedural Knowledge
+	
     d) Tacit Knowledge
 
 57. **A graphical representation of knowledge using nodes (for concepts) and links (for relationships) is a:**
+
     a) Production Rule System
+	
     b) Semantic Network
+	
     c) Logical Formula
+	
     d) Frame System
+	
 
 58. **In a Semantic Network, a link labeled "IS-A" indicates:**
+
     a) A part-whole relationship (e.g., Wheel PART-OF Car)
+	
     b) A class membership or categorization (e.g., Dog IS-A Mammal)
+	
     c) A causal relationship (e.g., Fire CAUSES Heat)
+	
     d) An ownership relationship (e.g., Person OWNS Car)
+	
 
 59. **Knowledge about knowledge (e.g., knowing what you are good at) is referred to as:**
+
     a) Explicit Knowledge
+	
     b) Meta-knowledge
+	
     c) Common Knowledge
+	
     d) Foundational Knowledge
+	
 
 60. **Which of the following is a key challenge in Knowledge Representation for AI?**
+
     a) Finding the cheapest computer hardware
+	
     b) Formally encoding human knowledge and reasoning in a way a computer can use
+	
     c) Choosing the most colorful user interface
+	
     d) Making the system use as much electricity as possible
+	
 
 ---
 
