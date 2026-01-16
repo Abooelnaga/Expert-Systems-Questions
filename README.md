@@ -1,9 +1,3 @@
-# النموذج المستعمل :
+<img src="https://raw.githubusercontent.com/Abooelnaga/Abooelnaga/output/snake.svg" alt="Snake animation" />
 
-[DeepSeek](https://chat.deepseek.com/)
-
-# مواقع أسئلة :
-
-[t4tutorials](https://t4tutorials.com/expert-systems-mcqs/#google_vignette)
-
-[sanfoundry](https://www.sanfoundry.com/artificial-intelligence-mcqs-expert-systems/#google_vignette)
+###
